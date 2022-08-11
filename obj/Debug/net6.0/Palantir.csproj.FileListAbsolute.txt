@@ -1,0 +1,15 @@
+C:\Users\Владислав\Documents\Palantir\bin\Debug\net6.0\Palantir.exe
+C:\Users\Владислав\Documents\Palantir\bin\Debug\net6.0\Palantir.deps.json
+C:\Users\Владислав\Documents\Palantir\bin\Debug\net6.0\Palantir.runtimeconfig.json
+C:\Users\Владислав\Documents\Palantir\bin\Debug\net6.0\Palantir.dll
+C:\Users\Владислав\Documents\Palantir\bin\Debug\net6.0\Palantir.pdb
+C:\Users\Владислав\Documents\Palantir\obj\Debug\net6.0\Palantir.csproj.AssemblyReference.cache
+C:\Users\Владислав\Documents\Palantir\obj\Debug\net6.0\Palantir.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\Documents\Palantir\obj\Debug\net6.0\Palantir.AssemblyInfoInputs.cache
+C:\Users\Владислав\Documents\Palantir\obj\Debug\net6.0\Palantir.AssemblyInfo.cs
+C:\Users\Владислав\Documents\Palantir\obj\Debug\net6.0\Palantir.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Documents\Palantir\obj\Debug\net6.0\Palantir.dll
+C:\Users\Владислав\Documents\Palantir\obj\Debug\net6.0\refint\Palantir.dll
+C:\Users\Владислав\Documents\Palantir\obj\Debug\net6.0\Palantir.pdb
+C:\Users\Владислав\Documents\Palantir\obj\Debug\net6.0\Palantir.genruntimeconfig.cache
+C:\Users\Владислав\Documents\Palantir\obj\Debug\net6.0\ref\Palantir.dll

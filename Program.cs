@@ -1,10 +1,5 @@
-﻿double a = new Random().Next(1,1000);
-Console.WriteLine("Первое число: "+a);
-if (a % 2 ==0)
-{
-    Console.WriteLine("Число четное");
-}
-else
-{
-    Console.WriteLine("Число нечётное");
-}
+﻿int a = new Random().Next(100,999);
+
+Console.WriteLine("Трёхзначное число: "+a);
+
+Console.WriteLine(a / 10 % 10);
